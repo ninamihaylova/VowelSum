@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\bin\Debug\net8.0\VowelSum.exe
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\bin\Debug\net8.0\VowelSum.deps.json
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\bin\Debug\net8.0\VowelSum.runtimeconfig.json
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\bin\Debug\net8.0\VowelSum.dll
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\bin\Debug\net8.0\VowelSum.pdb
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\VowelSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\VowelSum.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\VowelSum.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\VowelSum.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\VowelSum.dll
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\refint\VowelSum.dll
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\VowelSum.pdb
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\VowelSum.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\VowelSum\VowelSum\obj\Debug\net8.0\ref\VowelSum.dll
